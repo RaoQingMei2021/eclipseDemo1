@@ -5,5 +5,6 @@ public class Happy {
 	 System.out.println("Right……");
 	 System.out.println("left……");
 	 System.out.println("测试修改是否将真的推送到远程库");
+	 System.out.println("edited in the hotfix branch");
 }
 }
